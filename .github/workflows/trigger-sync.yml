@@ -1,0 +1,17 @@
+name: Trigger main site rebuild
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch rebuild to main site
+        run: |
+          curl -X POST https://api.github.com/repos/CONFEST-2026/confest-2026.github.io/dispatches \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.CONFEST_REDEPLOY }}" \
+            -H "Content-Type: application/json" \
+            -d '{"event_type":"rebuild-from-snr"}'
