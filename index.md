@@ -27,7 +27,7 @@ Submissions are judged on the expected interest and relevance to the theme of th
 - Strategy synthesis in probabilistic models 
 - Heuristics for solving games
 
-####Important Dates
+#### Important Dates
 29 June AOE : Submission Deadline              
 20 July AOE : Notifications              
 5 Sep (full day) : Workshop           
