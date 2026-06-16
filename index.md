@@ -12,7 +12,8 @@ The goal of the **SNR (Symbolic and Numerical Reasoning about games)** workshop 
 
 SNR will be held on Saturday **5 September 2026**. 
 
-####  Call for submissions
+
+###  Call for submissions
 SNR solicits submissions for contributed talks in the form of extended abstracts (LIPIcs style, upto 2 pages without reference). We encourage submissions of ongoing works and new results as well as works published elsewhere. All submissions will undergo a lightweight peer-reviewing process. 
 Authors of selected submissions presenting original unpublished work may subsequently be invited to submit a full version for publication in formal proceedings. 
 
@@ -27,28 +28,30 @@ Submissions are judged on the expected interest and relevance to the theme of th
 - Strategy synthesis in probabilistic models 
 - Heuristics for solving games
 
-#### Important Dates
+
+### Important Dates
 29 June AOE : Submission Deadline              
 20 July AOE : Notifications              
 5 Sep (full day) : Workshop           
 
 
-#### Program Committee
+
+### Program Committee
 (TBA)
 
 
-#### Invited Speakers
+### Invited Speakers
 [Munyque Mittelmann](https://sites.google.com/view/mittelmann), CNRS,  LIPN, Université Sorbonne-Paris-Nord               
 (More to be confirmed)
 
 
-#### Organisers
+### Organisers
 [Sougata Bose](https://sites.google.com/view/sougatabose)           
 [Soumyajit Paul](https://soumyajit-paul.github.io/)              
 [Ashutosh Trivedi](https://ashutoshtrivedi.com/)                 
 [Dominik Wojtczak](https://intranet.csc.liv.ac.uk/~dominik/)             
 
-#### Previous Editions
+### Previous Editions
 - [8th International Workshop on Symbolic-Numeric Methods for Reachability Analysis (SNR'22)](https://plv.colorado.edu/snr22/), affiliated with CONFEST'22
 - [7th Int. Workshop on Symbolic-Numeric Methods for Reasoning about CPS and IoT (SNR’21)](https://sites.google.com/view/snr21/), affiliated with QONFEST'21.
 - [6th Int. Workshop on Symbolic-Numeric Methods for Reasoning about CPS and IoT (SNR’20)](https://www.cs.cas.cz/snr2020/), affiliated with QONFEST'20.
