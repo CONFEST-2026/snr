@@ -1,3 +1,9 @@
+---
+layout: default
+subnav: workshops
+---
+
+
 # The 9th International Workshop on Symbolic and Numerical Reasoning about games (SNR)
 
 Games are a fundamental framework for modelling interaction and strategic behaviour in verification, synthesis and logic. Reasoning about games often requires a combination of symbolic methods, such as strategy improvement, fixpoint computation, automata-theoretic techniques, and logical encodings, with numerical methods, such as value iteration, policy iteration, approximation, and quantitative optimisation.
@@ -5,6 +11,7 @@ Games are a fundamental framework for modelling interaction and strategic behavi
 The goal of the **SNR (Symbolic and Numerical Reasoning about games)** workshop is to provide a platform for exploring symbolic and numerical techniques for reasoning about games, with applications in verification, synthesis, reactive systems, probabilistic models, and related areas.
 
 SNR will be held on Saturday **5 September 2026**. 
+
 ####  Call for submissions
 SNR solicits submissions for contributed talks in the form of extended abstracts (LIPIcs style, upto 2 pages without reference). We encourage submissions of ongoing works and new results as well as works published elsewhere. All submissions will undergo a lightweight peer-reviewing process. 
 Authors of selected submissions presenting original unpublished work may subsequently be invited to submit a full version for publication in formal proceedings. 
