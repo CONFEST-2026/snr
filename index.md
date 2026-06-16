@@ -14,12 +14,9 @@ SNR will be held on Saturday **5 September 2026**.
 
 ### Organisers
 
-[Sougata Bose](https://sites.google.com/view/sougatabose)
-
-[Soumyajit Paul](https://soumyajit-paul.github.io/)
-
-[Ashutosh Trivedi](https://ashutoshtrivedi.com/)
-
-[Dominik Wojtczak](https://intranet.csc.liv.ac.uk/~dominik/)
+[Sougata Bose](https://sites.google.com/view/sougatabose)         
+[Soumyajit Paul](https://soumyajit-paul.github.io/)        
+[Ashutosh Trivedi](https://ashutoshtrivedi.com/)             
+[Dominik Wojtczak](https://intranet.csc.liv.ac.uk/~dominik/)     
 
 
