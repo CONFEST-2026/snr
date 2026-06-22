@@ -14,11 +14,8 @@ SNR will be held on Saturday **5 September 2026**.
 
 
 ###  Call for submissions
-SNR solicits submissions for contributed talks in the form of extended abstracts (LIPIcs style, upto 2 pages without reference). We encourage submissions of ongoing works and new results as well as works published elsewhere. All submissions will undergo a lightweight peer-reviewing process. 
-Authors of selected submissions presenting original unpublished work may subsequently be invited to submit a full version for publication in formal proceedings. 
-
-
-Submissions should be made via EasyChair [https://easychair.org/conferences/?conf=snr26](https://easychair.org/conferences/?conf=snr26). 
+SNR solicits submissions for contributed talks in the form of extended abstracts (LIPIcs style, upto 2 pages without reference). We encourage submissions of ongoing works and new results as well as works published elsewhere. All submissions will undergo a lightweight peer-reviewing process. Authors of selected submissions presenting original unpublished work will subsequently be invited to submit a full version of their work for publication in formal proceedings, to be published by [EPTCS](https://about.eptcs.org/).
+          
 
 Submissions are judged on the expected interest and relevance to the theme of the workshop. The topics include (but are not limited to) :
 - Numerical and symbolic methods in games 
@@ -29,18 +26,19 @@ Submissions are judged on the expected interest and relevance to the theme of th
 - Strategy synthesis in probabilistic models 
 - Heuristics for solving games
 
+Submissions should be made via EasyChair [https://easychair.org/conferences/?conf=snr26](https://easychair.org/conferences/?conf=snr26). 
 
 ### Important Dates
-29 June AOE : Submission Deadline              
-20 July AOE : Notifications              
-5 Sep (full day) : Workshop           
+**29 June AOE** : Submission Deadline              
+**20 July AOE** : Notifications              
+**5 Sep** (full day) : Workshop           
 
 
 
 ### Program Committee
 [K. S. Thejaswini](https://thejaswiniraghavan.github.io/) (Université Libre de Bruxelles)             
-[Mickael Randour](https://www.randour.com/) (FRS - FNRS and UMONS - Université de Mons )           
-[Suman Sadhukhan](https://sites.google.com/view/suman-sadhukhan/home) (TU Clausthal )          
+[Mickael Randour](https://www.randour.com/) (FRS - FNRS and UMONS - Université de Mons)           
+[Suman Sadhukhan](https://sites.google.com/view/suman-sadhukhan/home) (TU Clausthal)          
 [Aline Goeminne](https://alinegoeminne.github.io/) (ENS Rennes, IRISA)        
 [Sven Schewe](https://www.csc.liv.ac.uk/~sven/) (University of Liverpool)           
 [Ashutosh Trivedi](https://ashutoshtrivedi.com/)  (University of Colorado, Boulder) (PC Chair)             
