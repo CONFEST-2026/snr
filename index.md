@@ -18,7 +18,7 @@ SNR solicits submissions for contributed talks in the form of extended abstracts
 Authors of selected submissions presenting original unpublished work may subsequently be invited to submit a full version for publication in formal proceedings. 
 
 
-Submissions should be made via EasyChair https://easychair.org/conferences/?conf=snr26. 
+Submissions should be made via EasyChair [https://easychair.org/conferences/?conf=snr26](https://easychair.org/conferences/?conf=snr26). 
 
 Submissions are judged on the expected interest and relevance to the theme of the workshop. The topics include (but are not limited to) :
 - Numerical and symbolic methods in games 
