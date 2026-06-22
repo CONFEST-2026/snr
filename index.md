@@ -18,6 +18,7 @@ SNR solicits submissions for contributed talks in the form of extended abstracts
 Authors of selected submissions presenting original unpublished work may subsequently be invited to submit a full version for publication in formal proceedings. 
 
 
+Submissions should be made via EasyChair https://easychair.org/conferences/?conf=snr26. 
 
 Submissions are judged on the expected interest and relevance to the theme of the workshop. The topics include (but are not limited to) :
 - Numerical and symbolic methods in games 
@@ -37,7 +38,14 @@ Submissions are judged on the expected interest and relevance to the theme of th
 
 
 ### Program Committee
-(TBA)
+[K. S. Thejaswini](https://thejaswiniraghavan.github.io/) (Université Libre de Bruxelles)             
+[Mickael Randour](https://www.randour.com/) (FRS - FNRS and UMONS - Université de Mons )           
+[Suman Sadhukhan](https://sites.google.com/view/suman-sadhukhan/home) (TU Clausthal )          
+[Aline Goeminne](https://alinegoeminne.github.io/) (ENS Rennes, IRISA)        
+[Sven Schewe](https://www.csc.liv.ac.uk/~sven/) (University of Liverpool)           
+[Ashutosh Trivedi](https://ashutoshtrivedi.com/)  (University of Colorado, Boulder) (PC Chair)             
+[Dominik Wojtczak](https://intranet.csc.liv.ac.uk/~dominik/)  (University of Liverpool)             
+[Anirban Majumdar](https://anirban11.github.io/) (TIFR, Mumbai)           
 
 
 ### Invited Speakers
