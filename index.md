@@ -48,7 +48,7 @@ Submissions should be made via EasyChair [https://easychair.org/conferences/?con
 
 ### Invited Speakers
 [Munyque Mittelmann](https://sites.google.com/view/mittelmann), CNRS,  LIPN, Université Sorbonne-Paris-Nord       
-[Prince Mathew](https://princemathew07.github.io/) Université Libre de Bruxelles (ULB)                 
+[Prince Mathew](https://princemathew07.github.io/), Université Libre de Bruxelles (ULB)                 
 
 
 ### Organisers
