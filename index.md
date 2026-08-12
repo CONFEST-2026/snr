@@ -46,10 +46,24 @@ Submissions should be made via EasyChair [https://easychair.org/conferences/?con
 [Anirban Majumdar](https://anirban11.github.io/) (TIFR, Mumbai)           
 
 
-### Invited Speakers
-[Munyque Mittelmann](https://sites.google.com/view/mittelmann), CNRS,  LIPN, Université Sorbonne-Paris-Nord       
-[Prince Mathew](https://princemathew07.github.io/), Université Libre de Bruxelles (ULB)                 
+### Invited Talks
+[Munyque Mittelmann](https://sites.google.com/view/mittelmann), CNRS,  LIPN, Université Sorbonne-Paris-Nord   
 
+<b>Can We Change the Game? Reasoning about Dynamic Multi-Agent Systems</b>       
+<details>
+          <summary>Abstract</summary>
+Most research on logics for strategic reasoning in Multi-Agent Systems (MAS) has traditionally focused on static models, such as concurrent game structures, which represent a fixed set of system configurations and the transitions between them. Such models are unable to capture scenarios where the system’s structure undergoes dynamic changes, whether triggered by agent actions or caused by an external factor.  As MAS increasingly operate in dynamic and unpredictable settings, their design and maintenance require reasoning about how structural changes affect system behavior. When existing models fail to produce desirable outcomes or are incorrect, computing repairs offers an alternative to complete redesigns. This talk explores recent advances in logic-based methods for dynamic MAS, including reasoning about model modifications and repairing flawed games.
+</details>   
+
+[Prince Mathew](https://princemathew07.github.io/), Université Libre de Bruxelles (ULB)       
+
+<b>Active Learning for the Synthesis of POMDP Policies</b>
+<details>
+          <summary>Abstract</summary>
+Partially Observable Markov Decision Processes (POMDPs) are a fundamental model for decision-making under uncertainty, with applications ranging from robotics and autonomous systems to planning and verification. However, synthesising correct policies for POMDPs is, in general, undecidable. Existing approaches face a fundamental trade-off. Sampling-based techniques, such as reinforcement learning and Monte Carlo methods, scale well to large problems but provide no formal correctness guarantees, making them unsuitable for safety-critical applications. In contrast, formal synthesis techniques offer correctness-by-construction but often struggle to scale.
+
+In this talk, I will present a synthesis framework that combines automata learning, model checking, and policy-generation techniques to bridge this gap. Inspired by Angluin's L* algorithm, the framework views policy generation as a membership oracle and model checking as an equivalence oracle to actively learn finite-state controllers. The membership oracle can be instantiated by any algorithm capable of suggesting a suitable action for a given action-observation history. I will present the theoretical foundations of the framework and show that it is relatively complete: whenever the policy induced by the membership oracle is regular, the algorithm is guaranteed to synthesise a correct finite-state controller. Finally, I will present experimental results demonstrating that the proposed method successfully solves threshold-safety problems that remain challenging for existing formal synthesis tools. This work illustrates how active learning provides a principled bridge between scalable policy-generation techniques and formal methods, opening a promising new direction for POMDP policy synthesis.
+</details>  
 
 ### Organisers
 [Sougata Bose](https://sites.google.com/view/sougatabose)           
