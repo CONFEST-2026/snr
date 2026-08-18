@@ -55,21 +55,32 @@ Most research on logics for strategic reasoning in Multi-Agent Systems (MAS) has
 <b>Active Learning for the Synthesis of POMDP Policies</b>
 <details>
           <summary>Abstract</summary>
-Partially Observable Markov Decision Processes (POMDPs) are a fundamental model for decision-making under uncertainty, with applications ranging from robotics and autonomous systems to planning and verification. However, synthesising correct policies for POMDPs is, in general, undecidable. Existing approaches face a fundamental trade-off. Sampling-based techniques, such as reinforcement learning and Monte Carlo methods, scale well to large problems but provide no formal correctness guarantees, making them unsuitable for safety-critical applications. In contrast, formal synthesis techniques offer correctness-by-construction but often struggle to scale.    
-
+Partially Observable Markov Decision Processes (POMDPs) are a fundamental model for decision-making under uncertainty, with applications ranging from robotics and autonomous systems to planning and verification. However, synthesising correct policies for POMDPs is, in general, undecidable. Existing approaches face a fundamental trade-off. Sampling-based techniques, such as reinforcement learning and Monte Carlo methods, scale well to large problems but provide no formal correctness guarantees, making them unsuitable for safety-critical applications. In contrast, formal synthesis techniques offer correctness-by-construction but often struggle to scale.       
 
 In this talk, I will present a synthesis framework that combines automata learning, model checking, and policy-generation techniques to bridge this gap. Inspired by Angluin's L* algorithm, the framework views policy generation as a membership oracle and model checking as an equivalence oracle to actively learn finite-state controllers. The membership oracle can be instantiated by any algorithm capable of suggesting a suitable action for a given action-observation history. I will present the theoretical foundations of the framework and show that it is relatively complete: whenever the policy induced by the membership oracle is regular, the algorithm is guaranteed to synthesise a correct finite-state controller. Finally, I will present experimental results demonstrating that the proposed method successfully solves threshold-safety problems that remain challenging for existing formal synthesis tools. This work illustrates how active learning provides a principled bridge between scalable policy-generation techniques and formal methods, opening a promising new direction for POMDP policy synthesis.
+</details>      
+
+[James Main](https://alexandermain.github.io/), University of Oxford      
+
+<b> Randomised Decision Making: Expressiveness and Complexity </b>
+<details>
+          <summary>Abstract</summary>
+Games on graphs are a prevalent framework for automated controller synthesis for reactive systems. Given a game modelling the interaction of a reactive system and its environment, we can construct a controller (enforcing some formal specification) from a good strategy in the game, where a strategy describes the decisions to be made based on the past history of the ongoing play. In many settings, e.g., concurrent, imperfect information or multi-objective settings, pure (i.e., deterministic) strategies do not suffice to play optimally. In the first two cases, randomised decision making can be used to be unpredictable against an adversary, and in the latter case, randomness is useful to balance multiple objectives.      
+
+This talk will focus on the power and expressiveness of randomised strategies. First, we will survey different definitions of randomised strategies. In particular, we will consider finite-memory strategies, i.e., strategies that can be encoded as finite automata with outputs. Finite-memory strategies are of particular interest for synthesis, as these represent strategies that can be implemented in practice. We will present a complete taxonomy of finite-memory randomised strategies in terms of expressive power. In the second part of the talk, we will focus on multi-objective Markov decision processes (i.e., one-player stochastic games), and provide a complete description of randomisation requirements for this setting. In particular, we show that limited randomisation often suffices for these multi-objective specifications.      
+
+This talk is based on joint works with Mickael Randour (Université de Mons, Belgium).
 </details>        
 
       
 
-### Organisers
+#### Organisers
 [Sougata Bose](https://sites.google.com/view/sougatabose)           
 [Soumyajit Paul](https://soumyajit-paul.github.io/)              
 [Ashutosh Trivedi](https://ashutoshtrivedi.com/)                 
 [Dominik Wojtczak](https://intranet.csc.liv.ac.uk/~dominik/)             
 
-### Previous Editions
+#### Previous Editions
 - [8th International Workshop on Symbolic-Numeric Methods for Reachability Analysis (SNR'22)](https://plv.colorado.edu/snr22/), affiliated with CONFEST'22
 - [7th Int. Workshop on Symbolic-Numeric Methods for Reasoning about CPS and IoT (SNR’21)](https://sites.google.com/view/snr21/), affiliated with QONFEST'21.
 - [6th Int. Workshop on Symbolic-Numeric Methods for Reasoning about CPS and IoT (SNR’20)](https://www.cs.cas.cz/snr2020/), affiliated with QONFEST'20.
