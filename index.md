@@ -81,10 +81,10 @@ This talk is based on joint works with Mickael Randour (Université de Mons, Bel
       
 
 #### Organisers
-[Sougata Bose](https://sites.google.com/view/sougatabose)           
-[Soumyajit Paul](https://soumyajit-paul.github.io/)              
-[Ashutosh Trivedi](https://ashutoshtrivedi.com/)                 
-[Dominik Wojtczak](https://intranet.csc.liv.ac.uk/~dominik/)             
+[Sougata Bose](https://sites.google.com/view/sougatabose) (UMONS - Université de Mons)            
+[Soumyajit Paul](https://soumyajit-paul.github.io/) (University of Liverpool)                
+[Ashutosh Trivedi](https://ashutoshtrivedi.com/) (University of Colorado, Boulder)                    
+[Dominik Wojtczak](https://intranet.csc.liv.ac.uk/~dominik/) (University of Liverpool)            
 
 #### Previous Editions
 - [8th International Workshop on Symbolic-Numeric Methods for Reachability Analysis (SNR'22)](https://plv.colorado.edu/snr22/), affiliated with CONFEST'22
