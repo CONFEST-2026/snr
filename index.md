@@ -76,7 +76,10 @@ This talk will focus on the power and expressiveness of randomised strategies. F
 
 This talk is based on joint works with Mickael Randour (Université de Mons, Belgium).      
 
-</details>          
+</details>     
+
+The full program can be found [here](https://confest-2026.github.io/program/snr/).          
+
 
       
 
