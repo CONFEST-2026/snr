@@ -78,8 +78,12 @@ This talk is based on joint works with Mickael Randour (Université de Mons, Bel
 
 </details>     
 
-The full program can be found [here](https://confest-2026.github.io/program/snr/).          
 
+#### Program 
+
+The full program can be found [here](https://confest-2026.github.io/program/snr/).       
+
+The program includes an open problem session which will feature very short individual presentations of open problems withing the scope of the workshop topics.  Anyone is welcome to present problems. Please contact the organisers if you intend to present an open problem.        
 
       
 
